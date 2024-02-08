@@ -1,8 +1,8 @@
 -   <div>
 
     ---
-    title: "Sample Report - Data Science Capstone"
-    author: "Student name"
+    title: "Missing Data and Imputations- Data Science Capstone"
+    author: "Vyshnavi"
     date: '`r Sys.Date()`'
     format:
       html:
@@ -23,7 +23,7 @@
 
 ## Introduction
 
-### What is "mehtod"?
+### What is "method"?,,,,,,
 
 This is an introduction to Kernel regression, which is a non-parametric
 estimator that estimates the conditional expectation of two variables
