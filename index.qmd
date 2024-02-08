@@ -23,7 +23,7 @@
 
 ## Introduction
 
-### What is "method"?,,,,,,**``!!@@###!!
+### What is "methhhod"?,,,,,,**``!!@@###!!
 
 This is an introduction to Kernel regression, which is a non-parametric
 estimator that estimates the conditional expectation of two variables
