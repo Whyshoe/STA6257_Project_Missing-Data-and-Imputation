@@ -1,5 +1,3 @@
--   <div>
-
     ---
     title: "Missing Data and Imputations- Data Science Capstone"
     author: "Vyshnavi"
@@ -19,7 +17,6 @@
         wrap: 72
     ---
 
-    </div>
 
 ### Introduction ###
 
